@@ -47,17 +47,17 @@ mvn clean install
 
 ### A Quick Run in Test Mode
 
-You can get a quick first glance of the outcome music with the `TEST` flag, as descripted in the previous work.
+You can get a quick first glance of the outcome music with the `TEST` flag, as described in the previous work.
 
-To obtain the organum motets with diatonic contrapuntal parts, simply executed the original command:
+To obtain the organum motets with diatonic contrapuntal parts, simply execute the original command:
 
 ```
 mvn verify -Dexec.args="TEST"
 ```
 
-The generated music files in `.musicxml` format can be found in a fixed folder named `/ORGANUM.MOTET_TEST` under `/_projects` folder .
+The generated music files in `.musicxml` format can be found in a folder named `/ORGANUM.MOTET_TEST` under `/_projects` folder .
 
-To obtain the organum motets with chromatic contrapuntal parts, just add `CHROMATIC` flag in the arguments:
+To obtain the organum motets with chromatic contrapuntal parts, just add `CHROMATIC` flag as an argument:
 
 ```
 mvn verify -Dexec.args="TEST CHROMATIC"
