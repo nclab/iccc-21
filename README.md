@@ -81,6 +81,9 @@ This will take much longer time to finish. The result will be stored in a folder
 
 ## Use
 
-### Please cite
+Please cite
 
-Chang, C.-y., & Chen, Y.-p. (2021). In the Name of Creativity: En Route to Inspiring Machines. In *Proceedings of 2021 International Conference on Computational Creativity (ICCC '21)*.
+> Chang, C.-y., & Chen, Y.-p. (2021).  In *Proceedings of 2021 International Conference on Computational Creativity (ICCC '21)*.
+>
+> Chang, C.-y., & Chen, Y.-p. (2021). In the Name of Creativity: En Route to Inspiring Machines. In <i>Proceedings of the 12th International
+Conference on Computational Creativity (ICCC ¡¦21)</i> (pp. 400-404). URL: [https://e.cctcc.art/iccc-2021](https://e.cctcc.art/iccc-2021).
